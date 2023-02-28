@@ -12,3 +12,8 @@ Shell Scripting Topics.
 8.Exit Status 
 9.Quotes 
 10.Redirectors
+
+V - Variables
+F - Functions
+L - Loops 
+C - Conditions
