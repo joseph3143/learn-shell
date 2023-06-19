@@ -5,3 +5,5 @@
 #  1. Command Substitution: (mostly used)
 DATE = $(date)
 echo "Hello, Good Morning Date is ${DATE}"
+
+
