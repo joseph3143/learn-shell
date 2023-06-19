@@ -3,7 +3,7 @@
 #echo "Hello Good Morning, ${DATE}"
     # we need to get & take data dynamically
 #  1. Command Substitution: (mostly used)
-DATE = $(date)
+DATE=$(date)
 echo "Hello, Good Morning Date is ${DATE}"
 
 
