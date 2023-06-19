@@ -4,6 +4,6 @@
     # we need to get & take data dynamically
 #  1. Command Substitution: (mostly used)
 DATE=$(date)
-echo "Hello, Good Morning Date is ${DATE}"
+echo "Hello, Good Morning date is ${DATE}"
 
 
