@@ -8,6 +8,6 @@ echo "Hello, Good Morning date is ${DATE}"
 
 # 2. Arithmetic Substitution
 ADD=$((2+3))
-echo "Addition of 2+3 = $(ADD)"
+echo "Addition of 2+3 = ${ADD}"
 
 
