@@ -1,5 +1,7 @@
 # 0-n, $*/$@, $#
 
+# give bash 04.inputs.sh abc 123 in terminal
+
 echo First Argument $1 # First Argument
 echo Second Argument $2 # Second Argument
 
