@@ -27,3 +27,11 @@ echo Value of b - $b
 # Functions => Assign a name to set of commands
 
 
+abc(){
+  echo Hello
+  return 1
+  echo Bye
+}
+
+abc
+echo  Exit status of abc function = $?
